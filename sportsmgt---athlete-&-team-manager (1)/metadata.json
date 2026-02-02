@@ -1,0 +1,5 @@
+{
+  "name": "SportsMGT - Athlete & Team Manager",
+  "description": "A comprehensive sports management platform for athletes and coaches. Features event scheduling, registration, performance tracking, and role-based dashboards.",
+  "requestFramePermissions": []
+}
